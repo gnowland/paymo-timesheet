@@ -1,10 +1,10 @@
 {
-  "name": "starterWebpack",
+  "name": "paymo-timesheet-insights",
   "version": "1.1.0",
-  "description": "Modern front-end development starter kit powered by Yarn, WebPack, and BrowserSync",
-  "repository": "git@github.com:gnowland/starterWebpack.git",
+  "description": "Gain deeper insight into your Paymo timesheets.",
+  "repository": "git@github.com:gnowland/paymo-timesheet-insights.git",
   "author": "Gifford Nowland <hi@giffordnowland.com>",
-  "license": "ISC",
+  "license": "MIT",
   "private": true,
   "browser": "index.html",
   "scripts": {
