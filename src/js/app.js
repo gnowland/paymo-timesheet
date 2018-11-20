@@ -1,5 +1,10 @@
+const axios = require('axios');
+
 const app = (() => {
   function init() {
+    // Check for Axios
+    if (typeof axios === 'undefined') { return; }
+
     // Authentication
     const apiUser = process.env.API_USER;
     const apiKey = process.env.API_KEY;

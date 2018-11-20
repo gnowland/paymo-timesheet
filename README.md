@@ -4,7 +4,7 @@ Gain deeper insight into your Paymo timesheets.
 
 ## Development
 
-This project uses **yarn**, **webpack** and **browsersync**.
+This project uses **yarn**, **webpack**, **browsersync**, and **axios**.
 
 * Dependancies and build scripts are managed in `package.json` (yarn)
 * JS build processes are defined in `webpack.config.js` (webpack)
