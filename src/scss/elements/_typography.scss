@@ -42,3 +42,12 @@ sub,
 sup {
   font-size: 0.75em;
 }
+
+code,
+pre {
+  background-color: rgba(27,31,35,.05);
+  border-radius: 3px;
+  font-size: 85%;
+  margin: 0;
+  padding: .2em .4em;
+}
