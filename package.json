@@ -33,6 +33,7 @@
     "browser-sync": "^2.26.3",
     "clean-css-cli": "^4.2.1",
     "css-mqpacker": "^7.0.0",
+    "dotenv-webpack": "^1.5.7",
     "eslint": "^5.9.0",
     "eslint-config-defaults": "^9.0.0",
     "eslint-plugin-import": "^2.14.0",

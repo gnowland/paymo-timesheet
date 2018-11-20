@@ -10,7 +10,8 @@ This project uses **yarn**, **webpack** and **browsersync**.
 * JS build processes are defined in `webpack.config.js` (webpack)
 * Source files (raw files that must be compiled before being used with other systems) are located in `/src`.
 * Compiled files (js, css -- files that are packaged and ready to be used with other systems) are output to `/dist` by **webpack** & **yarn** build processes (see below). *These files should not be modified directly, they will be overwritten on the next compile!*
-* A boilerplate main.js, app.js, and index.html are also included.
+* Environmentally specific and sensitive information is stored in a `.env` file in the project root. Rename `.env.sample` to `.env` and enter your API key information, etc. before compiling.
+
 
 ### How it works
 
