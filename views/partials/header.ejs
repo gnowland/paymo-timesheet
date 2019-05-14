@@ -2,7 +2,13 @@
 <html>
 
 <head>
-  <title><%= title %></title>
+  <title><%
+    if (typeof error !== 'undefined') { 
+      %><%= error.status %> Error<% 
+    } else if (typeof title !== 'undefined') {
+      %><%= title %><% 
+    } 
+  %></title>
   <link rel='stylesheet' href='/stylesheets/style.css' />
 </head>
 
