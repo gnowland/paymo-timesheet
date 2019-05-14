@@ -70,3 +70,6 @@ typings/
 
 # Benchmarking
 benchmarks/graphs
+
+# Compiled files
+public/stylesheets/style.css
