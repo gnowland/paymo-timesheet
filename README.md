@@ -4,7 +4,7 @@ Gain deeper insight into your Paymo timesheets.
 
 ## Development
 
-This project uses **yarn**, **node**, and **express**
+This project uses **[yarn](https://yarnpkg.com/)**, **[node](https://nodejs.org/api/)**, **[express](http://expressjs.com/en/api.html)**, and **[ejs](https://ejs.co/)**.
 
 ### How it works
 
