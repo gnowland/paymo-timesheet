@@ -53,7 +53,7 @@ Which will bring to your disposal these main build commands:
 More granular commands can be found in `package.json`
 
 ## Contributing
-Contributions are always welcome!  Please submit a Pull Request.
+Contributions are always welcome, please submit a Pull Request.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
