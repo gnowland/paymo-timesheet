@@ -6,8 +6,8 @@ html {
 }
 
 body {
-  background-color: get-color(light);
-  color: get-color(greys, dark);
+  background-color: get-color(dark, light);
+  color: get-color(greys, blueish);
   font-size: 1.35rem;
   line-height: 1.618;
   margin: auto;

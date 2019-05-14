@@ -3,11 +3,13 @@ $hint-of-red: #F9F9F9;
 
 // dark
 $black: #000000;
+$charade: #282a35;
 
 //greys
 $mercury: #e6e6e6;
 $steel: #656667;
 $armadillo: #4a4a4a;
+$waikawa-gray: #6272a4;
 
 // blues
 $botticelli: #C8D8DE;
@@ -25,6 +27,7 @@ $old-brick: #981a32;
 
 $colors: (
   dark: (
+    light: $charade,
     base: $black
   ),
   blues: (
@@ -35,7 +38,8 @@ $colors: (
   greys: (
     light: $mercury,
     base: $steel,
-    dark: $armadillo
+    dark: $armadillo,
+    blueish: $waikawa-gray
   ),
   greens: (
     base: $hippie-green
