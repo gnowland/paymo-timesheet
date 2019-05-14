@@ -1,6 +1,6 @@
 /* global module process */
 
-let devToolType = process.env.NODE_ENV === 'dev' ? 'cheap-eval-source-map' : '';
+let devToolType = process.env.NODE_ENV === 'dev' ? 'source-map' : '';
 const Dotenv = require('dotenv-webpack');
 
 module.exports = {
