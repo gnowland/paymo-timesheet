@@ -22,28 +22,38 @@ This project uses **yarn**, **webpack**, **browsersync**, and **axios**.
     yarn
     ```
 
-3. Which will bring to your disposal these main build commands:
+### Build Commands
 
-    1. **Dev**
+Which will bring to your disposal these main build commands:
 
-        starts browsersync, compiles your js and scss, creates source maps and reloads on file changes (JS/CSS/HTML)
+1. **Dev**
 
-        ```bash
-        yarn dev
-        ```
+    starts browsersync, compiles your js and scss, creates source maps and reloads on file changes (JS/CSS/HTML)
 
-    1. **Dev with PHP**
+    ```bash
+    yarn dev
+    ```
 
-        starts PHP CLI built-in web server, browsersync as proxy, compiles your js and scss, creates source maps and reloads on file changes (JS/CSS/HTML/PHP)
+1. **Dev with PHP**
 
-        ```bash
-        yarn dev-php
-        ```
+    starts PHP CLI built-in web server, browsersync as proxy, compiles your js and scss, creates source maps and reloads on file changes (JS/CSS/HTML/PHP)
 
-    2. **Dist**
+    ```bash
+    yarn dev-php
+    ```
 
-        generates production files (minifies css and packs media queries), generates less detailed source maps
+2. **Dist**
 
-        ```bash
-        yarn dist
-        ```
+    generates production files (minifies css and packs media queries), generates less detailed source maps
+
+    ```bash
+    yarn dist
+    ```
+
+More granular commands can be found in `package.json`
+
+## Contributing
+Contributions are always welcome!  Please submit a Pull Request.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
