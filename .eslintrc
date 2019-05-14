@@ -1,8 +1,0 @@
-{
-  "parser": "babel-eslint",
-  "extends": "defaults",
-  "env": {
-    "browser": true,
-    "node": true
-  }
-}
