@@ -1,6 +1,6 @@
-# Paymo Timesheet Insights
+# Invoice Clarity
 
-Gain deeper insight into your Paymo timesheets.
+Find clarity and insights in your billable time.
 
 ## Development
 
