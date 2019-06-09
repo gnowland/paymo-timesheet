@@ -1,6 +1,6 @@
 # Invoice Clarity
 
-Find clarity and insights in your billable time.
+Gain clarity and insight from your billable time.
 
 ## Development
 
